@@ -37,6 +37,6 @@ Also mailing function is implemented to notify users about the same.
 ### Contributors
 
 - [@AtharvaGole](https://github.com/AtharvaGole)
-- [@nurdtechie98](https://github.com/shivam1708)
-- [@freelancer-98](https://github.com/Freelancer-98)
-- [@inishchith](https://github.com/inishchith)
+- [@dharmick](https://github.com/dharmick)
+- [@Ye11ow-Flash](https://github.com/Ye11ow-Flash)
+- [@harshaldedhia](https://github.com/harshaldedhia)
