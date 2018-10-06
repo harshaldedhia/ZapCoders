@@ -1,0 +1,27 @@
+.signup-form {
+  border: 1px solid rgba(0,0,0,.05);
+  box-shadow: 0 0 4px 0 rgba(0,0,0,.05);
+  padding: 10px;
+  background: #fff;
+}
+
+.signup-wrapper {
+    width: 400px;
+    margin: 100px auto;
+    font-family: Roboto;
+}
+
+.signup-wrapper h2 {
+  color: #777;
+}
+
+.signup-form label {
+  color: #666;
+}
+
+.signup-form .help-block {
+  color: red;
+}
+body {
+  background: #fefefe;
+}
