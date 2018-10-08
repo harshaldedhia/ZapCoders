@@ -17,7 +17,7 @@ $smtp = Mail::factory('smtp', array(
         'port' => '465',
         'auth' => true,
         'username' => 'dharmikjoshi98@gmail.com',
-        'password' => 'zwsrpbnmcexkuorv'
+        'password' => 'YOUR_PASSWORD_HERE'
     ));
 	
 if (PEAR::isError($smtp)) {
