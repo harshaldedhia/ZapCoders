@@ -54,7 +54,6 @@
 
     $(function(){
       var hash = window.location.hash;
-      // console.log(hash);
       if(hash){
         hash = hash.substr(1) + ".php";
         loadForm(hash);
